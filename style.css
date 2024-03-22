@@ -1,0 +1,47 @@
+.footer-left{
+    float: left;
+    padding-left: 150px;
+    padding-top:20px;
+
+}
+
+.footer-right{
+    float: right;
+    padding-right: 257px;
+    padding-top:20px;
+
+}
+
+.footer-right img{
+    width: 150px;
+    border-radius: 200px;
+    border: 5px solid rgb(218, 224, 122);
+}
+
+.main-body{
+    float: left;
+    padding-left: 150px;
+    display: flex;
+    margin-top: 50px;
+}
+
+.left-body{
+    float: left;
+
+}
+
+.right-body{
+    float: right;
+    margin-left: 50px;
+    padding-left: 120px;
+}
+
+.borders{
+    display: flex;
+}
+
+.for-border{
+    background-color: lightgrey;
+    border-radius: 5px;
+    float: left;
+}
